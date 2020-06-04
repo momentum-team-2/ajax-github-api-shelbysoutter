@@ -24,6 +24,7 @@ fetch(url)
     let profilePic = document.createElement('li')
     profilePic.innerHTML = createImage(data.avatar_url)
     storyElement.appendChild(profilePic)
+    profilePic.classList.add("mw5")
 })
 
 function createImage (url) {

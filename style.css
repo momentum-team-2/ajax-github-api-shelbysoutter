@@ -1,3 +1,32 @@
 html {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif; 
+}
+
+.flex-container {
+}
+
+
+#header {
+    background-color: #a8577e;
+    color: white;
+}
+
+li {
+    list-style-type: none;
+}
+
+.bWord {
+    color: #3e1929;
+}
+
+.sWord {
+    color: #3e1929;
+}
+
+.story {
+    border-radius: 25px;
+}
+.mw5 {
+    border-radius: 70px;
+    border: black solid;
 }
